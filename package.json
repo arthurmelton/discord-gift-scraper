@@ -1,0 +1,24 @@
+{
+  "name": "discord-gift-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMTitan/discord-gift-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMTitan/discord-gift-scraper/issues"
+  },
+  "homepage": "https://github.com/AMTitan/discord-gift-scraper#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "request": "^2.88.2"
+  }
+}
